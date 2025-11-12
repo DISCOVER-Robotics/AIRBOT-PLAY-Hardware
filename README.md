@@ -1,6 +1,6 @@
-# AIRBOT-PLAY-SDK
-AIRBOT PLAY  hardware sdk
-# SDK概述
+# AIRBOT-PLAY-Hardware
+AIRBOT PLAY  hardware 
+# 概述
 
 AirbotPlay 机械臂控制 SDK 提供两套开发接口：
 
